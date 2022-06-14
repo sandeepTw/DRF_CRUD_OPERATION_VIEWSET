@@ -6,3 +6,4 @@ drf-yasg==1.20.0
 requests==2.27.1
 urllib3==1.26.9
 gunicorn
+whitenoise
